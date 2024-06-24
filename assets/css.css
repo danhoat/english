@@ -23,3 +23,6 @@ label{ font-weight:600; }
 .part{
 	padding: 25px 0;
 }
+#header{
+	height: 81px;
+}
