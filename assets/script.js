@@ -27,7 +27,7 @@ function includeHTML() {
     }
 }
 
-        $(document).ready(function() {
+$(document).ready(function() {
 	
 
 	var audioElement = document.createElement('audio');
