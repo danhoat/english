@@ -18,6 +18,7 @@
 body{
 	width: 1200px;
 	margin:  0 auto;
+	max-width: 100%;
 }
 label{ font-weight:600; }
 .part{
