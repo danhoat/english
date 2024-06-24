@@ -15,3 +15,11 @@
 	display: block;
 	position: absolute;
 }
+body{
+	width: 1200px;
+	margin:  0 auto;
+}
+label{ font-weight:600; }
+.part{
+	padding: 25px 0;
+}
