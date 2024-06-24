@@ -26,3 +26,7 @@ label{ font-weight:600; }
 #header{
 	height: 81px;
 }
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+}
