@@ -26,6 +26,10 @@ label{ font-weight:600; }
 #header{
 	height: 81px;
 }
+ul, li, div, span{
+	margin: 0;
+	padding: 0;
+}
 .menu ul li{
 	list-style: none;
 	display: inline-block;
