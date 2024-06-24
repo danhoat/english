@@ -29,7 +29,8 @@ function includeHTML() {
 
 $(document).ready(function() {
 	
-
+  includeHTML();
+  
 	var audioElement = document.createElement('audio');
     // audioElement.setAttribute('src', 'http://www.uscis.gov/files/nativedocuments/Track%2093.mp3');
     // audioElement.addEventListener("load", function() {
