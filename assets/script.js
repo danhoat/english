@@ -17,14 +17,13 @@ $(document).ready(function() {
     });
 
 
-    $( ".play" ).each(function() {
-      $( this ).addClass( "foo" );
+    // $( ".play" ).each(function() {
+    //   $( this ).addClass( "foo" );
 
-      var mp3 = $(this).attr('media');
+    //   var mp3 = $(this).attr('media');
 
-        audioElement.setAttribute('src', mp3);
-        audioElement.play();
-    });
+    //     audioElement.setAttribute('src', mp3);
+    //     audioElement.play();
+    // });
 
 });
-
