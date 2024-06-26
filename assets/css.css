@@ -58,6 +58,10 @@ ul, li, div, span{
 	left: 0;
 	z-index: 9;
 }
+.menu ul li .sub li{
+	display: block;
+	clear: both;
+}
 li:hover .sub{
 	display: block;
 }
