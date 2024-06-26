@@ -42,3 +42,11 @@ ul, li, div, span{
 	font-weight: 500;
     font-size: 17px;
 }
+.sub{
+	display: none;
+	width: 350px;
+	padding: 10px 5px;
+}
+li:hover .sub{
+	display: block;
+}
