@@ -52,7 +52,13 @@ ul, li, div, span{
 	position: absolute;
 	top:24px;
 	left: 0;
+	z-index: 9;
 }
 li:hover .sub{
 	display: block;
+}
+.section{
+	padding: 25px 0;
+	display: block;
+	clear: both;
 }
