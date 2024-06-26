@@ -51,6 +51,7 @@ ul, li, div, span{
 	padding: 10px 0px;
 	position: absolute;
 	top:24px;
+	left: 0;
 }
 li:hover .sub{
 	display: block;
