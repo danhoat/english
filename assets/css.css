@@ -42,10 +42,15 @@ ul, li, div, span{
 	font-weight: 500;
     font-size: 17px;
 }
+.menu ul li {
+	position: relative;
+}
 .sub{
 	display: none;
 	width: 350px;
 	padding: 10px 5px;
+	position: absolute;
+	top:10px;
 }
 li:hover .sub{
 	display: block;
