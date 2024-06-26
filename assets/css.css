@@ -48,9 +48,9 @@ ul, li, div, span{
 .sub{
 	display: none;
 	width: 200px;
-	padding: 10px 5px;
+	padding: 10px 0px;
 	position: absolute;
-	top:10px;
+	top:24px;
 }
 li:hover .sub{
 	display: block;
