@@ -57,10 +57,12 @@ ul, li, div, span{
 	top:24px;
 	left: 0;
 	z-index: 9;
+	background: #fff;
 }
 .menu ul li .sub li{
 	display: block;
 	clear: both;
+	border-bottom: 1px solid #ccc;
 }
 li:hover .sub{
 	display: block;
