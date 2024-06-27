@@ -61,10 +61,13 @@ ul, li, div, span{
 	background: #fff;
 	border:1px solid #e7e7e7;
 }
+.menu ul .sub,
+.menu ul .sub li{
+	border:1px solid #e7e7e7;
+}
 .menu ul .sub li{
 	display: block;
 	clear: both;
-	border-bottom: 1px solid #ccc;
 }
 li:hover .sub{
 	display: block;
