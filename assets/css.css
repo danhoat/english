@@ -50,18 +50,18 @@ ul, li, div, span{
 .menu ul li {
 	position: relative;
 }
-.sub{
+.menu ul .sub{
 	display: none;
 	width: 200px;
 	padding: 0px;
 	position: absolute;
 	top:36px;
-	left: 0;
+	left: -1px;
 	z-index: 9;
 	background: #fff;
 	border:1px solid #e7e7e7;
 }
-.menu ul li .sub li{
+.menu ul .sub li{
 	display: block;
 	clear: both;
 	border-bottom: 1px solid #ccc;
