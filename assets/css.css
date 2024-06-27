@@ -45,6 +45,7 @@ ul, li, div, span{
 	text-decoration: none;
 	font-weight: 500;
     font-size: 17px;
+    color: #23085a;
 }
 .menu ul li {
 	position: relative;
