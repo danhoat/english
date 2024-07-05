@@ -24,6 +24,10 @@ body{
 	margin:  0 auto;
 	max-width: 100%;
 }
+p{
+	margin: 0;
+	padding: 0;
+}
 label{ font-weight:600; }
 .part{
 	padding: 25px 0;
