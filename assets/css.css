@@ -52,6 +52,10 @@ ul, li, div, span{
     font-size: 17px;
     color: #23085a;
 }
+.menu ul li:first-child a{
+	padding-left: 0;
+	text-align: left;
+}
 .menu ul li {
 	position: relative;
 }
