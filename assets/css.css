@@ -97,7 +97,7 @@ a{
 	color: #ccc;
 }
 .container{
-	display: flex;
+	display: block;
 }
 .half{
 	display: inline-block;
