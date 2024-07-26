@@ -96,3 +96,8 @@ a{
 	text-decoration: none;
 	color: #ccc;
 }
+.half{
+	display: inline-block;
+	width: 50%;
+	
+}
