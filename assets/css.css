@@ -53,7 +53,7 @@ ul, li, div, span{
     color: #23085a;
     display: inline-block;
 }
-.menu ul li:first-child a{
+.menu ul li.fitem a{
 	padding-left: 0;
 	text-align: left;
 }
