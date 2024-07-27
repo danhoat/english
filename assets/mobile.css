@@ -2,4 +2,7 @@
   .menu{
     margin-bottom: 20px;
   }
+  .word{
+    min-width: 180px;
+  }
 }
