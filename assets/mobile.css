@@ -8,4 +8,7 @@
   .menu ul li.fitem a{
     padding-left: 9px;
   }
+  header{
+    margin-bottom: 30px;
+  }
 }
