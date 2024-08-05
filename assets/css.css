@@ -33,6 +33,10 @@ ul, li, div, span, label{
     background-position: bottom;
     position: relative;
     top:5px;
+    margin-right: 15px;
+}
+.word img.play{
+	top:0;
 }
 body{
 	width: 1200px;
