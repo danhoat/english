@@ -20,10 +20,15 @@ ul, li, div, span, label{
 	position: absolute;
 }
 .word .play{
-	width: 30px;
-	height: 30px;
-	background: url('../svg/volume-up-fill.svg');
-	background-repeat:no-repeat;
+	width: 19px;
+    height: 19px;
+    background: url(../svg/volume-up-fill.svg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    line-height: 29px;
+    background-position: bottom;
+    position: relative;
+    top:5px;
 }
 body{
 	width: 1200px;
