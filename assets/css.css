@@ -19,7 +19,7 @@ ul, li, div, span, label{
 	display: block;
 	position: absolute;
 }
-.word img{
+.word .play{
 	width: 30px;
 	height: 50px;
 	background: url('../svg/volume-up-fill.svg')
