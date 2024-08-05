@@ -22,7 +22,7 @@ ul, li, div, span, label{
 .word img{
 	width: 20px;
 	height: 20px;
-	background: url('svg/volume-up-fill.svg')
+	background: url('/svg/volume-up-fill.svg')
 }
 body{
 	width: 1200px;
