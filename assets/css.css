@@ -7,7 +7,7 @@ ul, li, div, span, label{
 	padding: 30px 0;
 }
 .word{
-	min-width: 230px;
+	min-width: 130px;
 	display: inline-block;
 	position: relative;
 }
