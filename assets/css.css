@@ -19,6 +19,11 @@ ul, li, div, span, label{
 	display: block;
 	position: absolute;
 }
+.word img{
+	width: 20px;
+	height: 20px;
+	background: url('svg/volume-up-fill.svg')
+}
 body{
 	width: 1200px;
 	margin:  0 auto;
