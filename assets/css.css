@@ -10,6 +10,7 @@ ul, li, div, span, label{
 	min-width: 130px;
 	display: inline-block;
 	position: relative;
+	margin-bottom: 6px;
 }
 .play{
 	cursor: pointer;
