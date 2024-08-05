@@ -21,8 +21,9 @@ ul, li, div, span, label{
 }
 .word .play{
 	width: 30px;
-	height: 50px;
-	background: url('../svg/volume-up-fill.svg')
+	height: 30px;
+	background: url('../svg/volume-up-fill.svg');
+	background-repeat:no-repeat;
 }
 body{
 	width: 1200px;
