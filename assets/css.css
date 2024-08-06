@@ -54,8 +54,8 @@ label{ font-weight:600; }
 .part{
 	padding: 25px 0;
 }
-#header{
-	height: 81px;
+header{
+	min-height: 81px;
 	overflow: hidden;
 }
 ul, li, div, span{
