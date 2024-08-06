@@ -12,3 +12,8 @@
     margin-bottom: 30px;
   }
 }
+@media screen and (max-width: 592px) {
+    header{
+      min-height: 130px;
+    }
+}
