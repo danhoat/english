@@ -138,3 +138,7 @@ ul.list li{
 	padding: 10px;
 	list-style: none;
 }
+a.download{
+	margin-left: 15px;
+	display: inline-block;
+}
