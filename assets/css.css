@@ -136,4 +136,5 @@ h2{
 ul.list li{
 	display: block;
 	padding: 10px;
+	list-style: none;
 }
