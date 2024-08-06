@@ -133,3 +133,7 @@ a{
 h2{
 	font-size: 23px;
 }
+ul.list li{
+	display: block;
+	padding: 10px;
+}
