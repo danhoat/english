@@ -43,6 +43,7 @@ body{
 	width: 1200px;
 	margin:  0 auto;
 	max-width: 100%;
+	overflow: hidden;
 }
 p{
 	margin: 0;
@@ -55,6 +56,7 @@ label{ font-weight:600; }
 }
 #header{
 	height: 81px;
+	overflow: hidden;
 }
 ul, li, div, span{
 	margin: 0;
