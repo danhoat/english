@@ -56,7 +56,6 @@ label{ font-weight:600; }
 }
 header{
 	min-height: 81px;
-	overflow: hidden;
 }
 ul, li, div, span{
 	margin: 0;
