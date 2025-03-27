@@ -148,3 +148,7 @@ h3{
 	line-height: 25px;
 	margin:15px 0
 }
+.list-words{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
